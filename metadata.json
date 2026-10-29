@@ -1,0 +1,6 @@
+{
+  "name": "Zenith AI",
+  "description": "Futuristic multi-model AI assistant with anime aesthetic, Tor proxy, live HTML runner, web search, Pollinations generator, ambient audio, and Termux bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
